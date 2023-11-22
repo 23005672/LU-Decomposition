@@ -48,8 +48,8 @@ print(solution)
 ```
 
 ## Output:
-![output](./lu1.png)
-![output](./lu2.png)
+![lu1](https://github.com/23005672/LU-Decomposition/assets/138971519/1bab7a82-f6b3-4514-9f99-b1e2bd124023)
+![lu2](https://github.com/23005672/LU-Decomposition/assets/138971519/5ec3c561-e27e-4445-bf74-40b98fd253ff)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
